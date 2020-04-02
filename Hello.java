@@ -2,8 +2,7 @@ public class Hello
 {
 	public static void main( String argv[])
 	{
-		// This is an unwanted but staged comment
-		String name = "World";
+		String name  "World";
 		if (argv.length != 0)
 
 		{
